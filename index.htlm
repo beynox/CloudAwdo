@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Cloud AwDo</title>
+	<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700&display=swap" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+</head>
+<body>
+	<div class="banner-text">
+		<ul>
+			<li><a href="https://discord.gg/6bA58DFECU"><font color=white>Discord</font></a></li>
+			<li><a href="https://sellix.io/FRITTE/product/60d250b9b728e"><font color=white>Shop</font></a></li>
+			<li><a href="https://youtube.com/channel/UCDxtObgHCryShzduk-iA-DQ"><font color=white>YouTube</font></a></li>
+			<li>Version 1.0</li>
+		</ul>
+		<h2>Welcome to Cloud Awdo Update Coming soon !</h2>
+	</div>
+	<div class="animation-area">
+		<ul class="box-area">
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+</body>
+</html>
